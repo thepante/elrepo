@@ -1,0 +1,15 @@
+{
+  "name": "Suzuki Celerio",
+  "description": "Su espacio interior y la elevación de sus asientos ofrecen una experiencia única de confort para el disfrute de su andar. Tan seguro como todo Suzuki e increíblemente eficiente energéticamente: ¡Hacés Montevideo – Pirápolis (100 Km) con solo 3,8 litros! \u003cbr\u003eDoble airbag.\u003cbr\u003eABS: Sistema antibloqueo de frenos.\u003cbr\u003e5 cinturones de seguridad.\u003cbr\u003eGanchos ISOFIX y superiores para sillas de niños.",
+  "cost": 12500,
+  "currency": "USD",
+  "soldCount": 25,
+  "category": "Autos",
+  "images": [
+    "view1.jpg",
+    "view2.jpg",
+    "view3.jpg",
+    "view4.jpg"
+  ],
+  "relatedProducts": [3, 4]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Peugeot 208",
+  "description": "El Peugeot 208 de segunda generación está construido sobre la plataforma modular CMP, que comparte con coches como el DS 3 Crossback o el Opel Corsa. Es un coche más largo y ancho que el anterior Peugeot 208, con un diseño más agresivo y estilizado. \u003cbr\u003eSu estética y su lenguaje de diseño están inspirados en el Peugeot 508. El frontal está presidido por dos llamativas ópticas y una firma LED diurna que se asemeja a los colmillos de un felino. En su parte trasera tiene unas ópticas LED unidas por una barra de color oscuro.",
+  "cost": 15200,
+  "currency": "USD",
+  "soldCount": 17,
+  "category": "Autos",
+  "images": [
+    "view1.jpg",
+    "view2.jpg",
+    "view3.jpg",
+    "view4.jpg",
+    "view5.jpg"
+  ],
+  "relatedProducts": [1, 2]
+}
